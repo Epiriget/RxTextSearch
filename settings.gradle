@@ -1,0 +1,2 @@
+rootProject.name='RxTextSearch'
+include ':app'
